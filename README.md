@@ -19,7 +19,7 @@
 
 |  SeoBeen  | BaeChang Hyeon |
 | :----: | :----: |
-| [![SeoBeen](https://avatars.githubusercontent.com/u/47266337?v=4)](https://github.com/Seobeen) | [![BaeChang Hyeon](https://avatars.githubusercontent.com/u/84314231?v=4)](https://github.com/baechanghyeon) |
+| [![SeoBeen](https://github.com/identicons/seobeen.png)](https://github.com/Seobeen) | [![BaeChang Hyeon](https://github.com/identicons/BaeChangHyeon.png)](https://github.com/baechanghyeon) |
 
 ## :bookmark:목차
 
